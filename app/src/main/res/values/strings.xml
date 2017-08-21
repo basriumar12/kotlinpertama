@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rumus Luas</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">hasil hitung :</string>
+    <string name="pindah">pindah</string>
+    <string name="segitiga">button segitiga</string>
+    <string name="persegi">button persegi</string>
+    <string name="persegipanjang">button persegi panjang</string>
+    <string name="persegitext">hitung luas persegi</string>
+    <string name="persegipjgtext">hitung luas persegi panjang</string>
+    <string name="segitigatext">hitung luas segitiga</string>
+</resources>
